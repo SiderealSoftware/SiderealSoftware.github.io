@@ -57,8 +57,13 @@
 .nav navbar-nav{
   color: black;
 }
+
+.mobile-nav {
+  display: none;
+}
+
 /* ============================================================
-  Parallax for index.html
+  Fake Parallax for index.html
 ============================================================ */
 section.module:last-child {
   margin-bottom: 0;
